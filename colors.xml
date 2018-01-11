@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background color of 4 text views (score of fouls and free kicks ) -->
+    <color name="colorPrimary">#126</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!-- color of the fouls and free kick text views  -->
+    <color name="colorFF">#FFECB3</color>
+    <color name="head">#FF6F00</color>
+</resources>
